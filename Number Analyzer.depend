@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1767827635 source:c:\users\hanac\downloads\programming files\c\number analyzer\main.c
+	<stdio.h>
+	<stdlib.h>
+
